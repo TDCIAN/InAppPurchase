@@ -24,6 +24,7 @@
 		189D449F2611795900D25F89 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		189D44A22611795900D25F89 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		189D44A42611795900D25F89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		189D44AB26117CD300D25F89 /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Configuration.storekit; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 				189D44962611795700D25F89 /* AppDelegate.swift */,
 				189D44982611795700D25F89 /* SceneDelegate.swift */,
 				189D449A2611795700D25F89 /* ViewController.swift */,
+				189D44AB26117CD300D25F89 /* Configuration.storekit */,
 				189D449C2611795700D25F89 /* Main.storyboard */,
 				189D449F2611795900D25F89 /* Assets.xcassets */,
 				189D44A12611795900D25F89 /* LaunchScreen.storyboard */,
